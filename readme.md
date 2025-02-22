@@ -1,7 +1,7 @@
 ## Awesome JSGame Detona Ralph
 
 <p align="center">
-  <img src="https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png" alt="JSGame Detona Ralph Logo">
+  <img src="[https://github.com/digitalinnovationone/jsgame-detona-ralph/raw/main/assets/images/logo.png](https://static.wikia.nocookie.net/detonaralph/images/9/95/Ralph.jpg/revision/latest/scale-to-width-down/300?cb=20130307210345&path-prefix=pt-br)" alt="JSGame Detona Ralph Logo">
 </p>
 
 Pagina para Jogar: https://jamiesbrown.github.io/jsgame-detona-ralph/
