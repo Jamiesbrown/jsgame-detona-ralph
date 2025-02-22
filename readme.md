@@ -27,7 +27,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Neste repositório, você encontrará um j
 
 Contribuições são bem-vindas! Se você deseja melhorar este jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um _pull request_.
 Foi inserido do jogo original:
- - contador de vidas, onde quando você não acerta o inimigo sua vida diminiu.
+ - contador de vidas (quando você não acerta o inimigo sua vida diminiu).
  - Um aumento de velocidade do inimigo com o passar do tempo, para dificultar o acerto.
 
 ### Créditos
